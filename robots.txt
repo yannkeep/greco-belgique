@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yannkeep.github.io/greco-belgique/sitemap.xml
