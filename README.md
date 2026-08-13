@@ -32,4 +32,3 @@ Dans GitHub : **Settings → Pages → Deploy from a branch → main / root**.
 
 État documentaire : 13 août 2026.
 
-Auteur : **YannKeep**.
